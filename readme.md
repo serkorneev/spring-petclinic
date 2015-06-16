@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application
+# Foo Sample Application
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
